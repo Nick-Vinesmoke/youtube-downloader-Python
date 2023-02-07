@@ -18,8 +18,11 @@ Run Compile.bat and .exe file need to be in one directory with the files folder 
 Or you can copy .exe file to ready folder, and all files which place in the ready folder is files for .exe
 Final result:
 ![LOGO](files/Screenshot_1.png)
+
 What need to be in files folder:
+
 ![LOGO](files/Screenshot_2.png)
+
 more [here](https://github.com/TomSchimansky/CustomTkinter/wiki/Packaging)
 
 ---
