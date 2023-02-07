@@ -1,7 +1,8 @@
 <a id ="up"></a>
 ![LOGO](files/picture.png)
 
-###Youtube downloader
+Youtube downloader
+---
 
 ---
 The program which download videos from Youtube if you have link written on Python.
@@ -9,6 +10,7 @@ The program which download videos from Youtube if you have link written on Pytho
 ***
 ### 🎬What is it
 ![LOGO](files/Screenshot.png)
+
 Simple and understandable GUI.
 Ⅰ.If you want to change something in code you need to know how [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter/wiki) and  [Tkinter](https://docs.python.org/3/library/tkinter.html) works and also Phyton.
 
